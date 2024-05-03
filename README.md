@@ -10,5 +10,17 @@ The repository currently contains
   - graph5.txt
   - graph6.txt
   - graph7.txt
-- Text files containing array-forms of all RGs of up to 7 links, with names rgs2.txt, rgs3.txt, rgs4.txt, rgs5.txt, rgs6.txt and rgs7.txt.
-- Image files containing graphical representation of each RG, with directory names rgs2, rgs3, rgs4, rgs5, rgs6 and rgs7.
+- Text files containing array-forms of all RGs of up to 7 links:
+  - rgs2.txt
+  - rgs3.txt
+  - rgs4.txt
+  - rgs5.txt
+  - rgs6.txt
+  - rgs7.txt.
+- Directories containing image files for graphical representation of all RGs of up to 7 links:
+  - rgs2
+  - rgs3
+  - rgs4
+  - rgs5
+  - rgs6
+  - rgs7
