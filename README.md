@@ -16,11 +16,11 @@ The repository currently contains
   - rgs4.txt
   - rgs5.txt
   - rgs6.txt
-  - rgs7.txt.
+  - rgs7.txt
 - Directories containing image files for graphical representation of all RGs of up to 7 links:
-  - rgs2
-  - rgs3
-  - rgs4
-  - rgs5
-  - rgs6
-  - rgs7
+  - [rgs2](./RGs/Images/rgs2)
+  - [rgs3](./RGs/Images/rgs3)
+  - [rgs4](./RGs/Images/rgs4)
+  - [rgs5](./RGs/Images/rgs5)
+  - [rgs6](./RGs/Images/rgs6)
+  - [rgs7](./RGs/Images/rgs7)
