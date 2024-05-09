@@ -24,3 +24,5 @@ The repository currently contains
   - [rgs5](./RGs/Images/rgs5)
   - [rgs6](./RGs/Images/rgs6)
   - [rgs7](./RGs/Images/rgs7)
+- PDF containing images for graphical representation of all RGs of up to 7 links:
+  - [PDF](./RGs/Images/rgs-2-3-4-5-6-7.pdf)
